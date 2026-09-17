@@ -1,2 +1,2 @@
 # texture
-<img width="188" height="187" alt="Screenshot 2026-09-10 115150" src="https://github.com/user-attachments/assets/658190a6-0006-44d5-b10a-22af38cb6567" />
+<img width="331" height="330" alt="Screenshot_2026-09-10_125216" src="https://github.com/user-attachments/assets/b4c4a5ba-7244-4e37-b440-7c9bf5a14aaa" />
